@@ -23,13 +23,13 @@ In the code, you will see a section where you can write out your preferences in 
 Be sure to read the commments that correspond to each variable to ensure that the preferences are set correctly.
 
 ### **Other Variables Used**
-The variable *PATH* is used to enter the directory path of your ChromeDriver file that you downloaded previously:
+The variable *PATH* is used to enter the directory path of your ChromeDriver file that you downloaded previously:  
 ![image](media/PATHdirectory.png)
 
-The variables *usernameInput* and *passwordInput* are used for you to enter your NetID and password to automate the login process:
+The variables *usernameInput* and *passwordInput* are used for you to enter your NetID and password to automate the login process:  
 ![image](media/loginInfo.png)
 
-The variable *authen* is used for you to enter your authentication method preference to automate the method selection:
+The variable *authen* is used for you to enter your authentication method preference to automate the method selection:  
 ![image](media/authenticationPref.png)
 
 ## **Demo**
